@@ -1,0 +1,115 @@
+---
+title: "Publications et communications"
+author: "<a href='https://pgtpg.github.io/'> Pierre-Guillaume Prigent</a>"
+date: "Dernière mise à jour : 05/12/2020"
+output:
+  minidown::mini_document:
+    framework: water
+    theme: dark
+    toc: true
+    toc_float: true
+---
+
+# Sélection de publications
+
+## Article dans une revue scientifique
+
+Prigent, P.-G. et Sueur, G. (2020). À qui profite la pseudo-théorie de l'aliénation parentale ? *Revue Délibérée*, *9*(1), 57‑62.
+
+> Disponible sur [Cairn](https://www.cairn.info/revue-deliberee-2020-1-page-57.htm) et en accès libre sur le [blog de la revue *Délibérée*](https://blogs.mediapart.fr/revue-deliberee/blog/010720/qui-profite-la-pseudo-theorie-de-l-alienation-parentale).
+
+## Chapitres dans un livre scientifique
+
+Gautier, A., Déroff, M.-L., Prigent, P.-G. et Hellégouarch, S. (2020). Challenging Institutional Resistance : Collaborative Efforts Against Gender Based Violence at a French University. Dans S. B. Marine et R. Lewis (dir.), *Collaborating for change : Transforming cultures to end gender-based violence in higher education* (p. XXX-XXX). Oxford University Press.
+
+> Voir sur [Google Books](https://books.google.fr/books?id=lbryDwAAQBAJ).
+
+Prigent, P.-G. et Sueur, G. (2019). Stratégies discursives et juridiques des groupes de pères séparés : l'expérience française. Dans C. Bard, M. Blais et F. Dupuis-Déri (dir.), *Antiféminismes et masculinismes d'hier et d'aujourd'hui* (p. 411‑436). Presses Universitaires de France.
+
+> Voir sur [Google Books](https://books.google.fr/books?id=wuSLDwAAQBAJ).
+
+## Articles dans une revue
+
+Prigent, P.-G. (2020). Stratégie des pères violents et complicité institutionnelle post-séparation. *Revue l'Observatoire*, *2019*(101), 21-24.
+
+> Numéro disponible à l'achat sur <https://www.revueobservatoire.be/spip.php?page=revue&id_revue=103>.
+
+Prigent, P.-G. (2015). Les mécanismes de la violence masculine contre les mères séparées et leurs enfants. *Chronique Féministe*, *116*, 11‑14.
+
+> Numéro disponible à l'achat sur <https://www.universitedesfemmes.be/se-documenter/revue-chronique-feministe/product/202-le-continuum-des-violences-patriarcales-proteger-la-mere-c-est-proteger-les-enfants>.
+
+## Article dans un blog
+
+Sueur, G., & Prigent, P.-G. (2020, juin 23). [Qu'est-ce que le contrôle coercitif ?](https://reseauiml.wordpress.com/2020/06/23/quest-ce-que-le-controle-coercitif/) *Réseau International des Mères en Lutte*.
+
+## Mémoire
+
+Prigent, P.-G. (2014). Les mécanismes de la violence masculine contre les mères séparées et leurs enfants [Mémoire de Master 2, Université de Bretagne Occidentale].
+
+> Fiche de lecture sur <https://entreleslignesentrelesmots.blog/2015/01/09/cest-des-yeux-quil-faut-enlever-le-sable/>.
+
+# Participation à un comité scientifique
+
+Avec Amandine Lebugle, Marie-Laure Déroff, Christèle Fraïssé, Arlette Gautier, Sylvie Grunvald, Dorothée Guérin et Leticia Janet Parredes Guerrero, Colloque "Violences envers les jeunes : quantifier - Analyser - Lutter", Université de Bretagne Occidentale, Brest, jeudi 31 mai et vendredi 1^er^ juin 2018. Programme disponible sur
+<https://univ-droit.fr/actualites-de-la-recherche/manifestations/27046-violences-envers-les-jeunes-quantifier-analyser-lutter>.
+
+# Sélection de communications
+
+Prigent, P.-G. (2020, 25 septembre). *Être un homme et étudier les violences masculines dans le couple : Une position sociale dominante en terrain sensible*. Communication présentée au Colloque "Les études de genre à l'UBO : bilan et perspectives", Université de Bretagne Occidentale, Brest. Programme disponible sur <https://www.univ-brest.fr/digitalAssets/91/91080_Affiche-A3.pdf>.
+
+Prigent, P.-G. (2020, 24 janvier). *Les stratégies des pères violents dans le cadre de séparations parentales*. Communication présentée au Séminaire "Le Genre à l'Ouest", Université de Bretagne Occidentale, Brest. Programme disponible sur <http://www.egalitefemmeshommes-brest.net/spip.php?article3841>.
+
+Prigent, P.-G. (2019, 16 octobre). *Stratégies de l'agresseur et réponses institutionnelles post-séparation en France*. Communication présentée au Colloque "L'impossible rupture : penser la sécurité des femmes et enfants en contexte de violences conjugales", La Louvière, Belgique. Colloque présenté sur <https://reseauiml.wordpress.com/2020/03/25/colloque-international-sur-les-violences-post-separation-limpossible-rupture/>.
+
+> Enregistrement vidéo disponible sur <https://www.youtube.com/watch?v=_8mqnpYqdvI>.
+
+> Voir les [autres interventions filmées](https://www.youtube.com/channel/UCFIfuX3PHD-y64VTLPPYKKQ).
+
+Sueur, G. et Prigent, P.-G. (2019, 2 septembre). *How is Parental Alienation Used Against Separated and Divorced Mothers in France*. Communication présentée à la *European Conference on Domestic Violence*, Oslo, Norvège. Programme disponible sur <https://ccnorway.eventsair.com/QuickEventWebsitePortal/ecdv-2019/programme/Agenda/AgendaItemDetail?id=d07e2683-9932-4d17-9b9d-d2e951ca2fa5>. 
+
+> Voir le [résumé et les slides](https://pgtpg.github.io/29/09/2019/how-is-parental-alienation-used-against-separated-and-divorced-mothers-in-france/).
+
+Sueur, G. et Prigent, P.-G. (2018, 4 novembre). *Violences post-séparation et complicité institutionnelle avec l'agresseur en France*. Communication présentée au Séminaire "Violences et oppression des femmes. Stratégies des institutions et revendications
+féministes", Université des Femmes, Bruxelles, Belgique. Programme disponible sur
+<https://www.universitedesfemmes.be/events-universite-des-femmes/a-ne-pas-manquer/203-module-1-violences-et-oppression-des-femmes-introduction>.
+
+Sueur, G. et Prigent, P.-G. (2018, 1 juin). *Les enfants exposés à la violence conjugale : vers la fin du déni ?* Communication présentée au Colloque "Violences envers les jeunes : quantifier - Analyser - Lutter", Université de Bretagne Occidentale, Brest. Programme
+disponible sur <https://univ-droit.fr/actualites-de-la-recherche/manifestations/27046-violences-envers-les-jeunes-quantifier-analyser-lutter>.
+
+Sueur, G. et Prigent, P.-G. (2018, 26 avril). *Histoire et usage du syndrome d'aliénation parentale contre les mères séparées en France*. Communication présentée au Colloque "L'aliénation parentale : une menace pour les femmes et les féministes ?", Université du Québec à Montréal. Programme disponible sur <https://www.femanvi.org/nouvelles/forum-alienation-parentale/>.
+
+> Enregistrement vidéo disponible sur
+<https://www.youtube.com/watch?v=Rw0sRBrfqLo>.
+
+> Voir les [autres interventions
+filmées](https://www.youtube.com/watch?v=bAnrMNy5hwQ&list=PLoiVUtiGhGdy6ivi8sQN2rEimx3e51Foh)
+et le [rapport](http://collections.banq.qc.ca/ark:/52327/bs3623811) du
+[#ForumAP2018 <i class="fa fa-twitter"></i>](https://twitter.com/hashtag/ForumAP2018).
+
+Sueur, G. et Prigent, P.-G. (2017, 12 avril). *Les mères séparées et leurs enfants face à la stratégie des agresseurs et à la complicité institutionnelle en France*. Communication présentée au Colloque "Perspectives internationales sur la violence post-séparation", Université d'Ottawa, Ontario, Canada.
+
+## Virage-UBO
+
+Prigent, P.-G., et équipe Virage-UBO. (2020, 25 septembre). *Violences et rapports de genre à l’Université*. Communication présentée au Colloque "Les études de genre à l’UBO : bilan et perspectives", Université de Bretagne Occidentale, Brest. Programme disponible sur  <https://www.univ-brest.fr/digitalAssets/91/91080_Affiche-A3.pdf>.
+
+Gautier, A., Prigent, P.-G. et équipe Virage-UBO. (2019, 28 août). *Intersectionnalité et violences dans le cadre d'une université française*. Communication présentée au Congrès de l'Association Française de Sociologie, RT24, Aix-en-Provence. Programme disponible sur  <https://afs-socio.fr/le-programme-par-rt/?lert=1007>.
+
+Gautier, A., Prigent, P.-G., Sonzia-Teutsong, M.-A. et équipe Virage-UBO. (2018, 30 août). *Les violences contre les étudiant.e.s dans une université bretonne : une approche intersectionnelle*. Communication présentée au Colloque "Les violences sexistes et sexuelles dans l'enseignement supérieur II", CIRFF, Université Paris Nanterre. Programme disponible sur <https://reqef.uqam.ca/conferences/colloque-violences-sexistes-et-sexuelles-dans-lenseignement-superieur-ii/>.
+
+Prigent, P.-G. et équipe Virage-UBO. (2018, 30 août). *Quand les auteurs de violences sont membres de l'Université : taux et réaction de l'établissement*. Communication présentée au Colloque "Les violences sexistes et sexuelles dans l'enseignement supérieur II", CIRFF, Université Paris Nanterre. Programme disponible sur <https://reqef.uqam.ca/conferences/colloque-violences-sexistes-et-sexuelles-dans-lenseignement-superieur-ii/>.
+
+Gautier, A., Prigent, P.-G. et équipe Virage-UBO. (2017, 4 décembre). *L'enquête Virage à l'UBO*. Communication présentée au Colloque "Les violences sexistes et sexuelles dans l'enseignement supérieur", Université Paris Diderot. Programme disponible sur  <https://violencesssesr.sciencesconf.org/resource/page/id/19>.
+
+## Interventions techniques concernant [R](https://www.r-project.org/) <i class="fa fa-desktop"></i>
+
+Prigent, P.-G. (2019, 4 novembre). *R Markdown : produire et reproduire des rapports statistiques (et bien plus)*. Communication présentée au Séminaire "Les outils du quanti en sciences humaines et sociales", Université de Bretagne Occidentale, Brest.
+
+> Slides disponibles sur <https://outiquanti.hypotheses.org/924>.
+
+Prigent, P.-G., Pressac, J.-B. et de Villèle, S. (2017, 28 novembre). *Manipuler du texte avec les expressions régulières*. Communication présentée au Séminaire "Les outils du quanti en sciences humaines et sociales", Université de Bretagne Occidentale, Brest.
+
+> NoteBook (qui sera mis à jour) accessible via <https://outiquanti.hypotheses.org/252>.
+
+Prigent, P.-G. (2016, 18 octobre). *Mise en oeuvre de R, intérêts et difficultés rencontrés en situation d'expérimentation*. Communication présentée au Séminaire "Les outils du quanti en sciences humaines et sociales", Université de Bretagne Occidentale, Brest.
+
+> Résumé disponible sur <https://outiquanti.hypotheses.org/146>.

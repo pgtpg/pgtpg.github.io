@@ -1,0 +1,37 @@
+---
+title: "Pierre-Guillaume Prigent"
+image: "photo.jpg"
+color1: "#202b38"
+color2: "#040607"
+# Colorate: https://colorate.azurewebsites.net/fr/Color/202C38 ; Avec la couleur noire
+angle: 130
+links:
+  - Publications et communications: "travaux.html"
+  - Étude sur l'aliénation parentale: "29/09/2019/how-is-parental-alienation-used-against-separated-and-divorced-mothers-in-france/"
+  - LinkedIn: "https://www.linkedin.com/in/pierre-guillaume-prigent-b987001a9/"
+  - Twitter: "https://twitter.com/pierre_pgt"
+  - GitHub: "https://github.com/pgtpg"
+  - Email: "mailto:ppg@protonmail.com"
+output:
+  postcards::onofre
+---
+ 
+Je suis ATER et doctorant en sociologie au Laboratoire d'Études et de Recherche en Sociologie (LABERS EA 3149) à l'Université de Bretagne Occidentale, à Brest, en France (*Fixed-Term Lecturer and PhD student in sociology, University of Western Brittany, Brest, France*).
+
+Ma thèse a pour titre provisoire *Les mécanismes de la violence masculine contre les mères séparées et leurs enfants*. Je la réalise sous la direction d'Arlette Gautier ([site](https://pagesperso.univ-brest.fr/~agautier/index.html)) à l'Université de Bretagne Occidentale, Brest, France et de Patrizia Romito ([Research Gate](https://www.researchgate.net/profile/Patrizia_Romito)) à l'Université de Trieste, Italie.
+
+À partir d'entretiens réalisés avec des femmes qui se sont séparées d'un ex-conjoint violent avec qui elles ont eu des enfants, j'analyse la stratégie adoptée par les agresseurs et la réponse des institutions à la violence.
+
+## Domaines de recherche
+
+* Sociologie du genre et des rapports sociaux
+* Sociologie des inégalités
+* Sociologie de la famille
+* Violences basées sur le genre (violences conjugales post-séparation, violences à l'université, stratégie de l'agresseur, contrôle coercitif, réponses institutionnelles à la violence)
+* Sociologie des mouvements sociaux (groupes de pères séparés)
+
+## Autres projets de recherches
+
+Je travaille fréquemment avec Gwénola Sueur ([site](https://gwenolasueur.wordpress.com/)) au sujet de la stratégie de groupe des agresseurs, du contrôle coercitif et des violences conjugales post-séparation notamment. J'ai cofondé avec elle le *Réseau International des Mères en Lutte* ([site](https://reseauiml.wordpress.com/)). Je mène avec elle une étude auprès de mères séparées et divorcées accusées d’aliénation parentale ([premiers résultats](29/09/2019/how-is-parental-alienation-used-against-separated-and-divorced-mothers-in-france/)).
+
+Je suis également membre de l'*Enquête Modes de vie, de santé et de sécurité des étudiant.e.s à l'UBO* (Virage-UBO) ([présentation](https://www.univ-brest.fr/digitalAssets/65/65073_PresentationEnquete.pdf)). Pour en savoir plus sur l'enquête *Virage*, c'est  [ici](https://virage.site.ined.fr/).
