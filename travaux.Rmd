@@ -1,7 +1,7 @@
 ---
 title: "Publications et communications"
-author: "<a href='https://pgtpg.github.io/'> Pierre-Guillaume Prigent</a>"
-date: "Dernière mise à jour : 05/12/2020"
+author: "<a href='https://pgtpg.github.io/'>Pierre-Guillaume Prigent</a>"
+date: "Dernière mise à jour : 19/12/2020"
 output:
   minidown::mini_document:
     framework: water
@@ -9,6 +9,16 @@ output:
     toc: true
     toc_float: true
 ---
+
+# Communications reportées et à venir
+
+Prigent, P.-G. (reporté en 2021). *Stratégie de l'agresseur et complicité institutionnelle en contexte de séparation parentale en France*. Colloque Trajetvi sur la violence conjugale et les violences faites aux femmes, Montréal, Québec. <https://colloquetrajetvi2020.com/conferenciers/>
+
+Sueur, G. et Prigent, P.-G. (reporté en 2021). *Usage de l'aliénation parentale contre les mères séparées et divorcées en France*. Colloque Trajetvi sur la violence conjugale et les violences faites aux femmes, Montréal, Québec. <https://colloquetrajetvi2020.com/conferenciers/>
+
+Sueur, G. et Prigent, P.-G. (reporté en 2021). *Un homme violent peut-il être un bon père ?  Diffusion du mythe, conséquences sur l'enfant, dogme de la coparentalité*. Université des Femmes, Bruxelles, Belgique.
+
+Sueur, G. et Prigent, P.-G. (reporté en 2021). *L'aliénation parentale : Contrôler et discipliner*. Colloque "(Syndrome d')aliénation parentale : regards croisés", Université Catholique de Lille. <https://www.fld-lille.fr/colloque-syndrome-d-alienation-parentale-regards-croises/>
 
 # Sélection de publications
 
@@ -20,7 +30,7 @@ Prigent, P.-G. et Sueur, G. (2020). À qui profite la pseudo-théorie de l'alié
 
 ## Chapitres dans un livre scientifique
 
-Gautier, A., Déroff, M.-L., Prigent, P.-G. et Hellégouarch, S. (2020). Challenging Institutional Resistance : Collaborative Efforts Against Gender Based Violence at a French University. Dans S. B. Marine et R. Lewis (dir.), *Collaborating for change : Transforming cultures to end gender-based violence in higher education* (p. XXX-XXX). Oxford University Press.
+Gautier, A., Déroff, M.-L., Prigent, P.-G. et Hellégouarch, S. (2020). Challenging Institutional Resistance : Collaborative Efforts Against Gender Based Violence at a French University. Dans S. B. Marine et R. Lewis (dir.), *Collaborating for change : Transforming cultures to end gender-based violence in higher education* (p. 200-224). Oxford University Press.
 
 > Voir sur [Google Books](https://books.google.fr/books?id=lbryDwAAQBAJ).
 
@@ -40,13 +50,13 @@ Prigent, P.-G. (2015). Les mécanismes de la violence masculine contre les mère
 
 ## Article dans un blog
 
-Sueur, G., & Prigent, P.-G. (2020, juin 23). [Qu'est-ce que le contrôle coercitif ?](https://reseauiml.wordpress.com/2020/06/23/quest-ce-que-le-controle-coercitif/) *Réseau International des Mères en Lutte*.
+Sueur, G. et Prigent, P.-G. (2020, juin 23). [Qu'est-ce que le contrôle coercitif ?](https://reseauiml.wordpress.com/2020/06/23/quest-ce-que-le-controle-coercitif/) *Réseau International des Mères en Lutte*.
 
 ## Mémoire
 
-Prigent, P.-G. (2014). Les mécanismes de la violence masculine contre les mères séparées et leurs enfants [Mémoire de Master 2, Université de Bretagne Occidentale].
+Prigent, P.-G. (2014). Les mécanismes de la violence masculine contre les mères séparées et leurs enfants [Mémoire de Master 2 (mention Très Bien, obtenue au mémoire : 18/20), Université de Bretagne Occidentale].
 
-> Fiche de lecture sur <https://entreleslignesentrelesmots.blog/2015/01/09/cest-des-yeux-quil-faut-enlever-le-sable/>.
+> Fiche de lecture disponible sur <https://entreleslignesentrelesmots.blog/2015/01/09/cest-des-yeux-quil-faut-enlever-le-sable/>.
 
 # Participation à un comité scientifique
 
@@ -90,7 +100,7 @@ Sueur, G. et Prigent, P.-G. (2017, 12 avril). *Les mères séparées et leurs en
 
 ## Virage-UBO
 
-Prigent, P.-G., et équipe Virage-UBO. (2020, 25 septembre). *Violences et rapports de genre à l’Université*. Communication présentée au Colloque "Les études de genre à l’UBO : bilan et perspectives", Université de Bretagne Occidentale, Brest. Programme disponible sur  <https://www.univ-brest.fr/digitalAssets/91/91080_Affiche-A3.pdf>.
+Prigent, P.-G., et équipe Virage-UBO. (2020, 25 septembre). *Violences et rapports de genre à l'Université*. Communication présentée au Colloque "Les études de genre à l'UBO : bilan et perspectives", Université de Bretagne Occidentale, Brest. Programme disponible sur  <https://www.univ-brest.fr/digitalAssets/91/91080_Affiche-A3.pdf>.
 
 Gautier, A., Prigent, P.-G. et équipe Virage-UBO. (2019, 28 août). *Intersectionnalité et violences dans le cadre d'une université française*. Communication présentée au Congrès de l'Association Française de Sociologie, RT24, Aix-en-Provence. Programme disponible sur  <https://afs-socio.fr/le-programme-par-rt/?lert=1007>.
 
@@ -100,7 +110,7 @@ Prigent, P.-G. et équipe Virage-UBO. (2018, 30 août). *Quand les auteurs de vi
 
 Gautier, A., Prigent, P.-G. et équipe Virage-UBO. (2017, 4 décembre). *L'enquête Virage à l'UBO*. Communication présentée au Colloque "Les violences sexistes et sexuelles dans l'enseignement supérieur", Université Paris Diderot. Programme disponible sur  <https://violencesssesr.sciencesconf.org/resource/page/id/19>.
 
-## Interventions techniques concernant [R](https://www.r-project.org/) <i class="fa fa-desktop"></i>
+## Interventions techniques concernant [R](https://www.r-project.org/)
 
 Prigent, P.-G. (2019, 4 novembre). *R Markdown : produire et reproduire des rapports statistiques (et bien plus)*. Communication présentée au Séminaire "Les outils du quanti en sciences humaines et sociales", Université de Bretagne Occidentale, Brest.
 
@@ -113,3 +123,4 @@ Prigent, P.-G., Pressac, J.-B. et de Villèle, S. (2017, 28 novembre). *Manipule
 Prigent, P.-G. (2016, 18 octobre). *Mise en oeuvre de R, intérêts et difficultés rencontrés en situation d'expérimentation*. Communication présentée au Séminaire "Les outils du quanti en sciences humaines et sociales", Université de Bretagne Occidentale, Brest.
 
 > Résumé disponible sur <https://outiquanti.hypotheses.org/146>.
+

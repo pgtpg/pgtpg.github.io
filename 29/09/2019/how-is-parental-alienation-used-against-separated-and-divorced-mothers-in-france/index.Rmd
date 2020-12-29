@@ -1,7 +1,7 @@
 ---
-title: "'How is Parental Alienation Used Against Separated and Divorced Mothers in France' : intervention avec Gwénola Sueur à l'ECDV 2019"
+title: "'How is Parental Alienation Used Against Separated and Divorced Mothers in France' : intervention avec Gwénola Sueur à l'ECDV 2019, à Oslo, en Norvège"
 author: "<a href='https://pgtpg.github.io/'> Pierre-Guillaume Prigent</a>"
-date: "29/09/2019 (mis à jour le 05/12/2020)"
+date: "29/09/2019 (mis à jour le 19/12/2020)"
 output:
   minidown::mini_document:
     framework: water
@@ -20,7 +20,7 @@ output:
 
 Le 2 septembre 2019 à l'ECDV (European Conference On Domestic Violence [#ECDV2019](https://twitter.com/hashtag/ECDV2019)) à Oslo, en Norvège, [Gwénola Sueur](https://gwenolasueur.wordpress.com/) et moi-même avons présenté la première étude qualitative réalisée auprès de mères séparées et divorcées accusées d'aliénation parentale en France.
 
-Les slides (en anglais) ayant servi de support à l'intervention sont [téléchargeables au format PDF](/post/Prigent_Sueur_2019_online.pdf). Elles ont été modifiées pour leur mise en ligne. Merci de ne pas les diffuser en dehors de ce site. Si vous souhaitez y faire référence, vous pouvez utiliser l'adresse de la [page actuelle](https://pgtpg.github.io/29/09/2019/how-is-parental-alienation-used-against-separated-and-divorced-mothers-in-france/).
+Les slides (en anglais) ayant servi de support à l'intervention sont [téléchargeables au format PDF](Prigent_Sueur_2019_online.pdf). Elles ont été modifiées pour leur mise en ligne. Merci de ne pas les diffuser en dehors de ce site. Si vous souhaitez y faire référence, vous pouvez utiliser l'adresse de la [page actuelle](https://pgtpg.github.io/29/09/2019/how-is-parental-alienation-used-against-separated-and-divorced-mothers-in-france/).
 
 Voici l'abstract de cette communication.
 
