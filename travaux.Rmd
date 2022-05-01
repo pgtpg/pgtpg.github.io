@@ -1,0 +1,74 @@
+---
+title: "Travaux"
+author: "<a href='http://pgtpg.github.io/'>Pierre-Guillaume Prigent</a>"
+date: "Dernière mise à jour : 02/05/2022"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    theme: journal
+---
+
+## Quelques publications
+
+### Concernant les usages sociaux de l'aliénation parentale
+
+Prigent Pierre-Guillaume et Sueur Gwénola, "Aliénation parentale et violence conjugale", dans Blandine Mallevaey (dir.), *Aliénation parentale : regards croisés*, Paris, Mare & Martin, 2021, p. 79‑91.
+
+> [Page consacrée à l'ouvrage sur le site de l'éditeur](http://www.mareetmartin.com/livre/alienation-parentale)
+
+Prigent Pierre-Guillaume et Sueur Gwénola, "À qui profite la pseudo-théorie de l'aliénation parentale ?", *Délibérée*, vol. 9, 2020, p. 57‑62.
+
+> Disponible sur [Cairn](http://www.cairn.info/revue-deliberee-2020-1-page-57.htm) et en accès libre sur le [blog de la revue *Délibérée*](http://blogs.mediapart.fr/revue-deliberee/blog/010720/qui-profite-la-pseudo-theorie-de-l-alienation-parentale)
+
+### Concernant l'enquête [Virage-UBO](http://www.univ-brest.fr/digitalAssets/65/65073_PresentationEnquete.pdf)
+
+Gautier Arlette, Déroff Marie-Laure, Prigent Pierre-Guillaume et Hellégouarch Sophie, "Challenging Institutional Resistance : Collaborative Efforts Against Gender Based Violence at a French University", dans Susan B. Marine et Ruth Lewis (dir.), *Collaborating for change : transforming cultures to end gender-based violence in higher education*, New York, États-Unis, Oxford University Press, 2020, p. 200‑224.
+
+> [Page consacrée au chapitre sur le site de l'éditeur](http://oxford.universitypressscholarship.com/view/10.1093/oso/9780190071820.001.0001/oso-9780190071820-chapter-9)
+
+### Concernant les groupes de pères
+
+Sueur Gwénola et Prigent Pierre-Guillaume, "L'intérêt de l'enfant, les droits des pères et la violence conjugale en France", dans Simon Lapierre (dir.), *Le meilleur intérêt de l'enfant victime de violence conjugale*, Québec, Presses de l'Université du Québec, 2022, p. 117‑136.
+
+> [Page consacrée à l'ouvrage sur le site de l'éditeur](http://www.puq.ca/catalogue/livres/meilleur-interet-enfant-victime-violence-conjugale-4084.html)
+
+Prigent Pierre-Guillaume et Sueur Gwénola, "Stratégies discursives et juridiques des groupes de pères séparés : l'expérience française", dans Christine Bard, Mélissa Blais et Francis Dupuis-Déri (dir.), *Antiféminismes et masculinismes d'hier et d'aujourd'hui*, Paris, Presses Universitaires de France, 2019, p. 411‑436.
+
+> [Aperçu de l'ouvrage sur Google Books](http://books.google.fr/books?id=wuSLDwAAQBAJ)
+
+### Concernant le contrôle coercitif
+
+Prigent Pierre-Guillaume, "Stratégie des pères violents et complicité institutionnelle post-séparation", *Revue l'Observatoire*, vol. 2019, n° 101, janvier 2020, p. 21‑24.
+
+> Numéro disponible à l'achat sur [le site de la revue](http://www.revueobservatoire.be/spip.php?page=revue&id_revue=103)
+
+Sueur Gwénola et Prigent Pierre-Guillaume, [Qu'est-ce que le contrôle coercitif ?](http://reseauiml.wordpress.com/2020/06/23/quest-ce-que-le-controle-coercitif/), 23 juin 2020.
+
+### À d'autres sujets
+
+Guillaud Étienne, Dondeyne Christèle, Taillens Muriel, Guyon Hervé, Muñoz Jorge, Prigent Pierre-Guillaume et Noûs Camille, "Covid-19 : l'université à l'épreuve du télétravail. Une organisation fragmentée", *Sociologies pratiques*, vol. 43, n° 2, 2021, p. 73‑82.
+
+> Disponible sur [Cairn](http://www.cairn.info/revue-sociologies-pratiques-2021-2-page-73.htm)
+
+## Quelques interventions filmées
+
+### Concernant le contrôle coercitif
+
+Prigent Pierre-Guillaume, *Étudier les violences masculines dans le couple à partir d'une position sociale oppressive : Décentrement, difficultés et stratégies d'adaptation en terrain sensible*, 12 mars 2021. Communication présentée au colloque ["Faire face aux violences sexuelles : résistances des acteur.trice.s, outils des chercheur.se.s"](http://fairefacevs.hypotheses.org/) par visioconférence.
+
+> Enregistrement vidéo disponible sur [YouTube](http://www.youtube.com/watch?v=_8mqnpYqdvI)
+
+Prigent Pierre-Guillaume, *Stratégies de l'agresseur et réponses institutionnelles post-séparation en France*, 16 octobre 2019. Communication présentée au Colloque ["L'impossible rupture : penser la sécurité des femmes et enfants en contexte de violences conjugales"](http://reseauiml.wordpress.com/2020/03/25/colloque-international-sur-les-violences-post-separation-limpossible-rupture/), La Louvière, Belgique.
+
+> Enregistrement vidéo disponible sur [YouTube](http://www.youtube.com/watch?v=_8mqnpYqdvI)
+
+### Concernant l'aliénation parentale
+
+Prigent Pierre-Guillaume et Sueur Gwénola, *Origine et contexte des allégations d'aliénation parentale en France*, 8 octobre 2021.  Communication présentée au Colloque ["Enfants exposés à la violence dans le couple parental. Des victimes oui... mais ensuite ?"](http://www.vd.ch/themes/etat-droit-finances/egalite-entre-les-femmes-et-les-hommes/lutte-et-prevention-de-la-violence-dans-le-couple/professionnelles/colloques/), Université du Québec à Montréal.
+
+> Enregistrement vidéo disponible sur [YouTube](http://youtu.be/JdQfgSeU2Yc?t=7629) et [slides](http://www.vd.ch/fileadmin/user_upload/organisation/dec/befh/violence_domestique/GSueur_PGPringent.pdf) disponibles
+
+Sueur Gwénola et Prigent Pierre-Guillaume, *Histoire et usage du syndrome d'aliénation parentale contre les mères séparées en France*, 26 avril 2018. Communication présentée au Colloque ["L'aliénation parentale : une menace pour les femmes et les féministes ?"](http://www.femanvi.org/nouvelles/forum-alienation-parentale/), Université du Québec à Montréal.
+
+> Enregistrement vidéo disponible sur [YouTube](http://www.youtube.com/watch?v=Rw0sRBrfqLo)

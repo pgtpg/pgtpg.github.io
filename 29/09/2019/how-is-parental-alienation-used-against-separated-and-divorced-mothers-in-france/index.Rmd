@@ -1,0 +1,66 @@
+---
+title: "Étude sur les usages sociaux de l'aliénation parentale en France"
+author: "<a href = 'http://pgtpg.github.io/'>Pierre-Guillaume Prigent</a> et <a href = 'http://gwenolasueur.wordpress.com/'>Gwénola Sueur</a>"
+date: "Dernière mise à jour : 02/05/2022"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    theme: journal
+---
+
+# Français (*english below*)
+
+Le 21 septembre 2021 à l'ECDV (European Conference On Domestic Violence), [Gwénola Sueur](http://gwenolasueur.wordpress.com/) et moi-même avons présenté notre étude sur les usages sociaux de l'aliénation parentale en France.
+
+Voici l'abstract de cette communication.
+
+**Contrôle coercitif et aliénation parentale**
+
+*En France, le concept d'aliénation parentale est apparu à la fin des années 90, dans un contexte de révélation de violences sexuelles sur des enfants. Défendu par des psychologues et propagé par les groupes de défense des droits des pères, il a été fréquemment mentionné dans les débats politiques ou médiatiques concernant la séparation des parents et la garde des enfants. Après avoir été critiqué pour son manque de preuves scientifiques et les risques liés à son utilisation envers les enfants et les femmes victimes de violences dans les tribunaux de la famille, le ministère français de la Justice a décidé en 2018 d'informer ses magistrats sur les risques liées à l'utilisation de ce concept. Malgré cette directive, les faits montrent qu'elle est toujours mentionnée dans les procédures civiles*.
+
+*Après avoir analysé à la fois les stratégies employées par les experts et les groupes de défense des droits des pères pour diffuser le concept d'aliénation parentale et la jurisprudence en la matière, nous avons mené des entretiens avec 20 femmes entre 2018 et 2021, qui avaient été accusées d'aliénation parentale par des pères, des proches, des avocats, des travailleurs sociaux ou des juges. Les participantes ont été recrutées à l'aide de médias sociaux et de forums web, et une analyse de contenu des entretiens a été réalisée*.
+
+*Nous avons découvert que l'aliénation parentale était mentionnée dans un contexte de contrôle coercitif, et pas seulement de violence sexuelle sur enfant, et même lorsque le concept n'était pas explicitement utilisé, ses idées sous-jacentes étaient toujours présentes.*
+
+*En outre, les accusations d'aliénation parentale n'impliquaient pas automatiquement un changement des modalités de garde, mais elles pouvaient néanmoins influencer les décisions en faveur d'une coparentalité avec le père violent et de la restauration de son contrôle. Ces résultats sont liés à un problème plus large d'identification de la violence domestique, avant et après la séparation, principalement basée sur la psychanalyse, non identifiée comme contrôle coercitif et psychologisée.*
+
+*L'aliénation parentale est utilisée comme une stratégie pour dissimuler la violence masculine, et comme une technologie disciplinaire. Elle réduit la violence domestique à un conflit parental, stigmatise et pathologise les femmes et les enfants.*
+
+# English
+
+On September 21, 2021 at ECDV (European Conference On Domestic Violence), [Gwénola Sueur](http://gwenolasueur.wordpress.com/) and I presented our study on the social uses of parental alienation in France.
+
+Here is the abstract.
+
+**Coercive control and parental alienation**
+
+*In France, the concept of parental alienation appeared in the late nineties, in a context of disclosure of child sexual abuse. Defended by psychologists and propagated by fathers’ rights groups, it has been frequently mentioned in political or media debates regarding parental separation and child custody. After being criticized for its lack of scientific evidence and the risks associated with its use towards children and women victims of violence in family courts, in 2018 the French Ministry of Justice decided to inform its magistrates about issues related to the use of this concept. Despite this guideline, evidence shows that it is still mentioned in civil proceedings.*
+
+*Following an analysis of both the strategies employed by experts and fathers’ rights groups to disseminate the concept of parental alienation and the jurisprudence in this area, we conducted interviews with 20 women from 2018 to 2021, who had been accused of parental alienation by fathers, relatives, lawyers, social workers or judges. The participants were recruited using social medias and web forums, and a content analysis of the interviews was performed.*
+
+*We discovered that parental alienation was mentioned in a context of coercive control, not only child sexual abuse, and even when the concept was not explicitly used, its underlying ideas were still present.*
+
+*Moreover, accusations of parental alienation did not automatically imply a change in custody arrangements, but it could nonetheless influence the decisions in favor of co-parenting with the violent father and the restoration of its control. Those outcomes are linked to a wider problem of identification of domestic violence, before and after separation, mainly psychoanalysis based, not identified as coercive control and psychologized.*
+
+*Parental alienation is used as a strategy to conceal male violence, and a disciplinary technology. It reduces domestic violence to parental conflict, stigmatizes and pathologizes women and children.*
+
+---
+
+# Quelques publications et interventions dans le cadre de cette étude
+
+Prigent Pierre-Guillaume et Sueur Gwénola, "Aliénation parentale et violence conjugale", dans Blandine Mallevaey (dir.), *Aliénation parentale : regards croisés*, Paris, Mare & Martin, 2021, p. 79‑91.
+
+> [Page consacrée à l'ouvrage sur le site de l'éditeur](http://www.mareetmartin.com/livre/alienation-parentale)
+
+Prigent Pierre-Guillaume et Sueur Gwénola, "À qui profite la pseudo-théorie de l'aliénation parentale ?", *Délibérée*, vol. 9, 2020, p. 57‑62.
+
+> Disponible sur [Cairn](http://www.cairn.info/revue-deliberee-2020-1-page-57.htm) et en accès libre sur le [blog de la revue *Délibérée*](http://blogs.mediapart.fr/revue-deliberee/blog/010720/qui-profite-la-pseudo-theorie-de-l-alienation-parentale)
+
+Prigent Pierre-Guillaume et Sueur Gwénola, *Origine et contexte des allégations d'aliénation parentale en France*, 8 octobre 2021.  Communication présentée au Colloque ["Enfants exposés à la violence dans le couple parental. Des victimes oui... mais ensuite ?"](http://www.vd.ch/themes/etat-droit-finances/egalite-entre-les-femmes-et-les-hommes/lutte-et-prevention-de-la-violence-dans-le-couple/professionnelles/colloques/), Université du Québec à Montréal.
+
+> Enregistrement vidéo disponible sur [YouTube](http://youtu.be/JdQfgSeU2Yc?t=7629) et [slides](http://www.vd.ch/fileadmin/user_upload/organisation/dec/befh/violence_domestique/GSueur_PGPringent.pdf) disponibles
+
+Sueur Gwénola et Prigent Pierre-Guillaume, *Histoire et usage du syndrome d'aliénation parentale contre les mères séparées en France*, 26 avril 2018. Communication présentée au Colloque ["L'aliénation parentale : une menace pour les femmes et les féministes ?"](http://www.femanvi.org/nouvelles/forum-alienation-parentale/), Université du Québec à Montréal.
+
+> Enregistrement vidéo disponible sur [YouTube](http://www.youtube.com/watch?v=Rw0sRBrfqLo)

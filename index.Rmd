@@ -1,0 +1,34 @@
+---
+title: "Pierre-Guillaume Prigent"
+image: "soutenance.jpg"
+links:
+  - label: Travaux
+    url: "travaux.html"
+  - label: Étude sur l'aliénation parentale
+    url: "29/09/2019/how-is-parental-alienation-used-against-separated-and-divorced-mothers-in-france/index.html"
+  - label: LinkedIn
+    url: "http://www.linkedin.com/in/pierre-guillaume-prigent-b987001a9/"
+  - label: Twitter
+    url: "http://twitter.com/pierre_pgt"
+  - label: GitHub
+    url: "http://github.com/pgtpg"
+  - label: Mail
+    url: "mailto:ppg@protonmail.com"
+output:
+  postcards::solana
+---
+
+Je suis **docteur en sociologie et enseignant** au Laboratoire d'Études et de Recherche en Sociologie (LABERS) à l'Université de Bretagne Occidentale, à Brest, en France.
+
+Ma **thèse**, soutenue en décembre 2021, s'intitule *[Les stratégies des pères violents en contexte de séparation parentale : contrôle coercitif, complicité institutionnelle et résistance des femmes](http://www.theses.fr/s146670)*. À partir d'entretiens réalisés avec des femmes qui se sont séparées d'un ex-conjoint violent avec qui elles ont eu des enfants, j'analyse la stratégie adoptée par les agresseurs et la réponse des institutions à la violence.
+
+Je mène avec [Gwénola Sueur](http://gwenolasueur.wordpress.com/) une [étude sur les usages sociaux de l'aliénation parentale](29/09/2019/how-is-parental-alienation-used-against-separated-and-divorced-mothers-in-france/index.html) (entretiens auprès de mères accusées d'aliénation parentale, analyse textuelle de la presse, analyse de la jurisprudence, des expertises et des discours).
+
+Je travaille actuellement sous la responsabilité scientifique de [Pierre-Édouard Weill](http://www.univ-brest.fr/menu/recherche-innovation/pages-chercheurs/WEILL-Pierre-Edouard), dans le cadre du projet "[*EnTraiDe. De la Commission européenne au 'plombier polonais'. Analyse transversale de l'encadrement du travail détaché*](http://www.gip-recherche-justice.fr/publication/entraide-de-la-commission-europeenne-au-plombier-polonais-analyse-transversale-de-lencadrement-du-travail-detache/)", financé par la Mission de recherche Droit et Justice, en tant qu'ingénieur de recherche (méthodes quantitatives, analyse de données textuelles).
+
+**Domaines de recherche**
+
+* Sociologie du genre, des rapports sociaux et des inégalités
+* Sociologie de la famille
+* Violences basées sur le genre (violences conjugales post-séparation, violences à l'université, stratégie de l'agresseur, contrôle coercitif, réponses institutionnelles à la violence)
+* Sociologie des mouvements sociaux (groupes de pères séparés)
